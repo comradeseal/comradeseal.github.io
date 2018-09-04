@@ -4,7 +4,8 @@
 */
 
 .everything {
-	color: cyan;
-	background-color: green;
+	color: teal;
+	background-color: black;
 	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
